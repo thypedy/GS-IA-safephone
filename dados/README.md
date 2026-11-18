@@ -74,3 +74,13 @@ Os dados utilizados representam uma amostra dos arquivos originais, e não a tot
 Portanto, os resultados do modelo não devem ser interpretados como estimativas oficiais do número total de furtos e roubos de celulares em São Paulo.
 
 A amostragem, os filtros aplicados e a disponibilidade dos registros podem influenciar os resultados e limitar sua generalização.
+
+## Disponibilidade dos arquivos originais
+
+Os arquivos Excel originais foram obtidos na fonte pública da SSP-SP,
+mas não foram incluídos neste repositório devido ao tamanho dos arquivos.
+
+Fonte:
+https://www.portal.ssp.sp.gov.br/estatistica/consultas
+
+A base processada utilizada no projeto está disponível neste diretório.
